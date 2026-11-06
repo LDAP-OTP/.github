@@ -13,4 +13,3 @@ The implementation of the (proposed) standards are linked here.
 * [Java Directory Server](https://github.com/LDAP-OTP/apache-directory-server-otp)
 * [Java LDAP API](https://github.com/LDAP-OTP/apache-directory-ldap-api-otp)
 * [Patches for Chromium](https://github.com/LDAP-OTP/www-authenticate-basicotp-chromium-patches)
-* 
